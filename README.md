@@ -1,20 +1,24 @@
-<div align="center">
+<p align="center">
   <img src="https://syssignals.com/assets/images/brand/logo-dark.svg" height="52" alt="syssignals" />
-  <br /><br />
+</p>
 
-  <h1>Vishwas Sharma</h1>
-  <p><b>CloudOps Specialist @ Teradata</b> &nbsp;·&nbsp; Founder, <a href="https://syssignals.com">syssignals.com</a></p>
-  <p><i>6+ years designing cloud-native platforms · DevSecOps · MLOps · GCP</i></p>
+<h1 align="center">Vishwas Sharma</h1>
 
-  <br />
+<p align="center">
+  <b>CloudOps Specialist @ Teradata</b> &nbsp;·&nbsp; Founder, <a href="https://syssignals.com">syssignals.com</a>
+</p>
 
-  [![X / Twitter](https://img.shields.io/badge/@syssignals-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/syssignals)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-sharma-63148ab3/)
-  [![Website](https://img.shields.io/badge/syssignals.com-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff)](https://syssignals.com)
-  [![GitHub followers](https://img.shields.io/github/followers/vsindevops?style=flat-square&color=161b22&labelColor=161b22&logo=github&logoColor=white&label=Follow)](https://github.com/vsindevops)
-  ![Profile views](https://komarev.com/ghpvc/?username=vsindevops&style=flat-square&color=161b22&label=Profile+views)
+<p align="center">
+  <i>6+ years designing cloud-native platforms · DevSecOps · MLOps · GCP</i>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://x.com/syssignals"><img src="https://img.shields.io/badge/@syssignals-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/vishwas-sharma-63148ab3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://syssignals.com"><img src="https://img.shields.io/badge/syssignals.com-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff" alt="Website" /></a>
+  <a href="https://github.com/vsindevops"><img src="https://img.shields.io/github/followers/vsindevops?style=flat-square&color=161b22&labelColor=161b22&logo=github&logoColor=white&label=Follow" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vsindevops&style=flat-square&color=161b22&label=Profile+views" alt="Profile views" />
+</p>
 
 ---
 
