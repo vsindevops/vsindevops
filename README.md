@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://syssignals.com/assets/images/brand/logo-dark.svg" height="52" alt="syssignals" />
+  <img src="https://syssignals.com/assets/images/brand/favicon.svg" height="80" alt="syssignals" />
 </p>
 
 <h1 align="center">Vishwas Sharma</h1>
